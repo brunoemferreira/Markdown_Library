@@ -42,16 +42,18 @@
 <!-- ******************************* Sobre ***************************************************  -->
 
 <h2 id="sobre"> 🚀 Sobre a Library </h2>
-Biblioteca com padrões que utilizo para formatação dos meus documentos de projetos onde 
+Biblioteca com padrões e infomações que utilizo para formatação dos meus documentos de projetos em que 
 utilizo MarkDown.
 
 <!-- ******************************* Links Uteis **********************************************  -->
 <h2 id="links"> 🔗 Links Úteis </h2>
 
+<p> Aqui em links úteis informo as referências que mais utilizo em meus projetos, tendo elas já pré cadastradas, ajudam no desenvolvimento da documentação de meus projetos.</p>
 
 ### Linguagens de Programação, Frameworks e Bibliotecas
 
 * [Java](https://www.java.com/)
+* [Kotlin](https://developer.android.com/kotlin?hl=pt)
 * [HTML](https://www.w3schools.com/html/) 
 * [CSS](https://www.w3schools.com/css/) 
 * [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
