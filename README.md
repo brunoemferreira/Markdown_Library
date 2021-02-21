@@ -3,7 +3,7 @@
 
 <!-- ******************************* Logotipo *************************************************  -->
 <div align="center">
-  <img src="assets/logo.png" alt="imagem" width="300">
+  <img src="assets/logo.png" alt="imagem" width="900">
 </div>
 
 <!-- ******************************* Título ***************************************************  -->
@@ -23,7 +23,7 @@
 <!-- ******************************* Sobre ***************************************************  -->
 
 <h2 id="sobre"> 🚀 Sobre a Library </h2>
-Biblioteca com padrões que utilizo para formatação dos meus documentos documentos de projetos onde 
+Biblioteca com padrões que utilizo para formatação dos meus documentos de projetos onde 
 utilizo MarkDown.
 
 <!-- ******************************* Links Uteis **********************************************  -->
